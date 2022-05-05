@@ -1,0 +1,11 @@
+dx > 0
+	dy > 0
+		dx > dy : octant 1
+		dx < dy : octant 2
+
+	dy < 0
+		dx > -dy : octant 8
+		dx < -dy : octant 7
+
+dx < 0
+	
